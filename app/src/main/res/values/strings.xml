@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">TranScribe</string>
+    <string name="transaction_menu_title">Transaksi</string>
+    <string name="scan_menu_title">Scan</string>
+    <string name="chart_menu_title">Chart</string>
+    <string name="setting_menu_title">Pengaturan</string>
+    <string name="daftar_transaksi">Daftar Transaksi</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="tombol_back">Tombol Back</string>
+    <string-array name="tipe">
+        <item>
+            xlsx
+        </item>
+        <item>
+            xls
+        </item>
+        <item>
+            Batal
+        </item>
+    </string-array>
+    <string name="add_transaction_desc">Add Transaction</string>
+    <string name="placeholder">placeholder</string>
+    <string name="nominal">Rp %1$.2f</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_login_short">Login</string>
+    <string name="open_image_desc">Open Image</string>
+    <string name="capture_image_desc">Capture Image</string>
+    <string name="camera_permission_required">Camera permission required</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="nama_transaksi">Nama Transaksi</string>
+    <string name="kategori">Kategori</string>
+    <string name="total_harga">Total harga</string>
+    <string name="tanggal_transaksi">Tanggal transaksi</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="nama">Nama</string>
+    <string name="kuantitas">Kuantitas</string>
+    <string name="harga">Harga</string>
+    <string name="welcome">"Berhasil Login"</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_password">Password tidak valid</string>
+    <string name="login_failed">"Gagal Login"</string>
+    <string name="logout">Berhasil Logout</string>
+    <string name="relogin">Sesi Anda telah berakhir. Silakan Login kembali.</string>
+    <string name="konfirmasi_simpan">Apakah Anda ingin menyimpan hasil scan ini?</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="pemasukan_chart">Pemasukan: Rp.%1$s</string>
+    <string name="pengeluaran_chart">Pengeluaran: Rp.%1$s</string>
+    <string name="pemasukan_kosong">Belum ada pemasukan</string>
+    <string name="pengeluaran_kosong">Belum ada pengeluaran</string>
+    <string name="no_connection">Tidak ada koneksi :(</string>
+    <string name="lost_connection_alert">Koneksi terputus. Beberapa fitur dimatikan.</string>
+    <string name="reconnected_alert">Koneksi tersambung kembali.</string>
+    <string name="no_connection_error">Tidak ada koneksi internet.</string>
+</resources>
